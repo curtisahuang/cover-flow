@@ -41,35 +41,35 @@ https://templatemo.com/tm-595-3d-coverflow
             }
         });
 
-        // Image data with titles and descriptions
+        // Image data with titles and descriptions (cat-themed)
         const imageData = [
             {
-                title: "Mountain Landscape",
-                description: "Majestic peaks covered in snow during golden hour"
+                title: "Playful Tabby",
+                description: "Bright-eyed tabby ready to pounce"
             },
             {
-                title: "Forest Path",
-                description: "A winding trail through ancient woodland"
+                title: "Sunset Silhouette",
+                description: "A serene feline outlined against a warm sunset"
             },
             {
-                title: "Lake Reflection",
-                description: "Serene waters mirroring the surrounding landscape"
+                title: "Curious by the Window",
+                description: "A curious cat gazing at the world outside"
             },
             {
-                title: "Ocean Sunset",
-                description: "Golden hour over endless ocean waves"
+                title: "Kitten Portrait",
+                description: "Soft-focus portrait of a fluffy kitten"
             },
             {
-                title: "Desert Dunes",
-                description: "Rolling sand dunes under vast blue skies"
+                title: "Emerald Eyes",
+                description: "Striking green eyes in a detailed closeup"
             },
             {
-                title: "Starry Night",
-                description: "Countless stars illuminating the dark sky"
+                title: "Playful Kitten",
+                description: "A playful kitten lounging on a cozy blanket"
             },
             {
-                title: "Waterfall",
-                description: "Cascading water through lush green forest"
+                title: "Morning Stretch",
+                description: "A relaxed cat enjoying a good stretch"
             }
         ];
 
