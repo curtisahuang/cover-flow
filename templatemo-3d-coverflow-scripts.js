@@ -41,35 +41,35 @@ https://templatemo.com/tm-595-3d-coverflow
             }
         });
 
-        // Image data with titles and descriptions
+        // Image data with titles and descriptions (cat-themed)
         const imageData = [
             {
-                title: "Mountain Landscape",
-                description: "Majestic peaks covered in snow during golden hour"
+                title: "Curious Tabby",
+                description: "A curious tabby gazing into the distance"
             },
             {
-                title: "Forest Path",
-                description: "A winding trail through ancient woodland"
+                title: "Sleepy Kitten",
+                description: "A sleepy kitten curled up for a cozy nap"
             },
             {
-                title: "Lake Reflection",
-                description: "Serene waters mirroring the surrounding landscape"
+                title: "Playful Calico",
+                description: "A calico cat playing with a string"
             },
             {
-                title: "Ocean Sunset",
-                description: "Golden hour over endless ocean waves"
+                title: "Regal Persian",
+                description: "A regal Persian posing elegantly"
             },
             {
-                title: "Desert Dunes",
-                description: "Rolling sand dunes under vast blue skies"
+                title: "Whiskered Close-up",
+                description: "Whiskers and bright eyes in a close-up portrait"
             },
             {
-                title: "Starry Night",
-                description: "Countless stars illuminating the dark sky"
+                title: "Cat in Sunlight",
+                description: "A cat basking in warm sunlight"
             },
             {
-                title: "Waterfall",
-                description: "Cascading water through lush green forest"
+                title: "Adventurous Cat",
+                description: "An adventurous cat exploring the outdoors"
             }
         ];
 
