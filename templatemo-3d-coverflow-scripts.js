@@ -44,32 +44,32 @@ https://templatemo.com/tm-595-3d-coverflow
         // Image data with titles and descriptions
         const imageData = [
             {
-                title: "Mountain Landscape",
-                description: "Majestic peaks covered in snow during golden hour"
+                title: "Sunlit Cat",
+                description: "Cat basking in warm sunlight"
             },
             {
-                title: "Forest Path",
-                description: "A winding trail through ancient woodland"
+                title: "Curious Kitten",
+                description: "Wide-eyed kitten exploring"
             },
             {
-                title: "Lake Reflection",
-                description: "Serene waters mirroring the surrounding landscape"
+                title: "Cat With Green Eyes",
+                description: "Close-up portrait with vivid green eyes"
             },
             {
-                title: "Ocean Sunset",
-                description: "Golden hour over endless ocean waves"
+                title: "Playful Cat",
+                description: "Cat mid-play, full of energy"
             },
             {
-                title: "Desert Dunes",
-                description: "Rolling sand dunes under vast blue skies"
+                title: "Sleeping Cat",
+                description: "Cozy cat napping peacefully"
             },
             {
-                title: "Starry Night",
-                description: "Countless stars illuminating the dark sky"
+                title: "Sunlit Cat",
+                description: "Cat basking in warm sunlight"
             },
             {
-                title: "Waterfall",
-                description: "Cascading water through lush green forest"
+                title: "Curious Kitten",
+                description: "Wide-eyed kitten exploring"
             }
         ];
 
