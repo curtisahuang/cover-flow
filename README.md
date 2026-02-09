@@ -13,3 +13,6 @@ Static 3D coverflow one-page portfolio template (HTML/CSS/JS).
 ## A quick joke
 Why do programmers prefer dark mode?
 Because light attracts bugs.
+
+## A quick pun
+This template has great *cover flow*—it really knows how to *turn heads*.
