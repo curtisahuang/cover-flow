@@ -23,3 +23,8 @@ Whose covers would glide with a grin.
 With CSS in sync,
 And some JavaScript ink,
 It made portfolios feel like a win.
+
+## A haiku about death
+Final cursor blinks—
+Silence fills the empty screen,
+Night saves every breath.
