@@ -16,3 +16,10 @@ Because light attracts bugs.
 
 ## A quick pun
 This template has great *cover flow*—it really knows how to *turn heads*.
+
+## A limerick
+There once was a page with a spin,
+Whose covers would glide with a grin.
+With CSS in sync,
+And some JavaScript ink,
+It made portfolios feel like a win.
