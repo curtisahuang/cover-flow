@@ -23,3 +23,22 @@ Whose covers would glide with a grin.
 With CSS in sync,
 And some JavaScript ink,
 It made portfolios feel like a win.
+
+## A sonnet
+Upon the screen, the covers take their flight,
+In measured arcs of depth and shadowed sheen;
+They turn like thoughts that wander through the night,
+And settle, poised, where focus might have been.
+
+No heavy forge of builds, no clanging chain—
+Just HTML, and style’s quiet art;
+A script to set the rhythm in the lane,
+And motion’s small persuasion plays its part.
+
+Here portfolios parade in graceful rows,
+Each image briefly monarch of the frame;
+A gentle wheel that, as it circles, shows
+How simple code can earn a vivid name.
+
+So keep it lean; let elegance suffice—
+For lightness lends the turning form its spice.
