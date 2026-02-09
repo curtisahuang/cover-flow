@@ -23,3 +23,8 @@ Whose covers would glide with a grin.
 With CSS in sync,
 And some JavaScript ink,
 It made portfolios feel like a win.
+
+## A haiku about death
+Silent final breath,
+Autumn leaves release their hold—
+Night folds into dawn.
