@@ -9,3 +9,7 @@ Static 3D coverflow one-page portfolio template (HTML/CSS/JS).
 ## Contributing
 - For UI changes, include before/after screenshots in PRs.
 - Keep HTML/CSS/JS vanilla and lightweight.
+
+## A quick joke
+Why do programmers prefer dark mode?
+Because light attracts bugs.
