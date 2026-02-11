@@ -23,3 +23,6 @@ Whose covers would glide with a grin.
 With CSS in sync,
 And some JavaScript ink,
 It made portfolios feel like a win.
+
+## Another quick joke
+I would tell you a UDP joke, but you might not get it.
