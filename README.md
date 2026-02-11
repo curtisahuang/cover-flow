@@ -23,3 +23,8 @@ Whose covers would glide with a grin.
 With CSS in sync,
 And some JavaScript ink,
 It made portfolios feel like a win.
+
+## A haiku
+Covers spin in light,
+CSS whispers, shadows glide—
+Portfolios bloom.
