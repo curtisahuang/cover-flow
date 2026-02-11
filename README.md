@@ -23,3 +23,7 @@ Whose covers would glide with a grin.
 With CSS in sync,
 And some JavaScript ink,
 It made portfolios feel like a win.
+
+## Another quick joke
+Why did the CSS developer leave the restaurant?
+Because it had no class.
