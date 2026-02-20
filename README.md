@@ -51,6 +51,13 @@ It has too many bugs.
 Why did the software developer go on a diet?
 Because they had too many bytes.
 
+Why did the programmer quit his job?
+Because he didn't get arrays.
+
+## A quick pun
+This template has great *cover flow*—it really knows how to *turn heads*.oftware developer go on a diet?
+Because they had too many bytes.
+
 ## A quick pun
 This template has great *cover flow*—
 ## A limerick
