@@ -377,6 +377,34 @@ https://templatemo.com/tm-595-3d-coverflow
             event.target.reset();
         }
 
+        // Joke section
+        const jokeText = document.getElementById('jokeText');
+        const jokes = [
+            "Why do programmers prefer dark mode? Because light attracts bugs.",
+            "I would tell you a UDP joke, but you might not get it.",
+            "There are only 10 types of people in the world: those who understand binary and those who don't.",
+            "A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'",
+            "Debugging: removing the needles from the haystack.",
+            "Programmers don't get scared of the dark. They're scared of undefined behavior."
+        ];
+
+        function showRandomJoke() {
+            if (!jokeText) return;
+
+            const current = jokeText.textContent;
+            let next = current;
+
+            while (next === current && jokes.length > 1) {
+                next = jokes[Math.floor(Math.random() * jokes.length)];
+            }
+
+            jokeText.style.opacity = '0';
+            setTimeout(() => {
+                jokeText.textContent = next;
+                jokeText.style.opacity = '1';
+            }, 150);
+        }
+
         // Initialize
         updateCoverflow();
         container.focus();
