@@ -23,3 +23,7 @@ Whose covers would glide with a grin.
 With CSS in sync,
 And some JavaScript ink,
 It made portfolios feel like a win.
+
+## A quick joake
+Why did the web developer go broke?
+Because he used up all his cache.
