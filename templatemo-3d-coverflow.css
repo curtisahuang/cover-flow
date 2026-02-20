@@ -927,6 +927,12 @@ https://templatemo.com/tm-595-3d-coverflow
             color: white;
         }
 
+        .footer-joke {
+            color: rgba(255, 255, 255, 0.6);
+            font-size: 14px;
+            font-style: italic;
+        }
+
         /* Scroll to top button */
         .scroll-to-top {
             position: fixed;
