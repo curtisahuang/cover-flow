@@ -48,9 +48,11 @@ Foo Bar.
 Why do programmers hate nature?
 It has too many bugs.
 
-## A quick pun
-This template has great *cover flow*—it really knows how to *turn heads*.
+Why did the software developer go on a diet?
+Because they had too many bytes.
 
+## A quick pun
+This template has great *cover flow*—
 ## A limerick
 There once was a page with a spin,
 Whose covers would glide with a grin.
