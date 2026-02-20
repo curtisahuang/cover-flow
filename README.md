@@ -10,13 +10,25 @@ Static 3D coverflow one-page portfolio template (HTML/CSS/JS).
 - For UI changes, include before/after screenshots in PRs.
 - Keep HTML/CSS/JS vanilla and lightweight.
 
-## A quick joke
+## Programmer jokes
+
 Why do programmers prefer dark mode?
 Because light attracts bugs.
 
-One more:
 Why did the developer go broke?
 Because they used up all their cache.
+
+Why do Java developers wear glasses?
+Because they don't see sharp.
+
+Why was the computer cold?
+It left its Windows open.
+
+Why did the function cross the road?
+To return to the other side.
+
+Why do Python programmers have trouble with relationships?
+Because they can't commit.
 
 ## A quick pun
 This template has great *cover flow*—it really knows how to *turn heads*.
