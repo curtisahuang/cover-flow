@@ -377,7 +377,67 @@ https://templatemo.com/tm-595-3d-coverflow
             event.target.reset();
         }
 
+        // Joak section
+        const joakTextEl = document.getElementById('joakText');
+        const newJoakBtn = document.getElementById('newJoakBtn');
+        const copyJoakBtn = document.getElementById('copyJoakBtn');
+        const joakHintEl = document.getElementById('joakHint');
+
+        const joaks = [
+            "Why do programmers prefer dark mode? Because light attracts bugs.",
+            "I told my CSS it was looking a little ‘thin’. It said: ‘Don’t worry, I’ve got padding.’",
+            "A SQL query walks into a bar, walks up to two tables and asks: ‘Can I join you?’",
+            "Why did the developer go broke? Because they used up all their cache.",
+            "I tried to catch some fog earlier. Mist.",
+            "I would tell you a UDP joak, but you might not get it."
+        ];
+
+        function setJoak(message) {
+            if (!joakTextEl) return;
+            joakTextEl.textContent = message;
+        }
+
+        function showJoakHint(message) {
+            if (!joakHintEl) return;
+            joakHintEl.textContent = message;
+            if (!message) return;
+            setTimeout(() => {
+                if (joakHintEl.textContent === message) {
+                    joakHintEl.textContent = '';
+                }
+            }, 1800);
+        }
+
+        function pickRandomJoak() {
+            const index = Math.floor(Math.random() * joaks.length);
+            setJoak(joaks[index]);
+        }
+
+        if (newJoakBtn) {
+            newJoakBtn.addEventListener('click', () => {
+                pickRandomJoak();
+            });
+        }
+
+        if (copyJoakBtn) {
+            copyJoakBtn.addEventListener('click', async () => {
+                if (!joakTextEl) return;
+
+                const text = joakTextEl.textContent || '';
+                if (!text.trim()) return;
+
+                if (!navigator.clipboard || !window.isSecureContext) {
+                    showJoakHint('Copy is only available over HTTPS.');
+                    return;
+                }
+
+                await navigator.clipboard.writeText(text);
+                showJoakHint('Copied.');
+            });
+        }
+
         // Initialize
         updateCoverflow();
         container.focus();
         startAutoplay();
+        pickRandomJoak();
