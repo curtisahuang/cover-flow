@@ -377,6 +377,19 @@ https://templatemo.com/tm-595-3d-coverflow
             event.target.reset();
         }
 
+        // Joke
+        const jokes = [
+            "Why do programmers prefer dark mode? Because light attracts bugs.",
+            "I told my computer I needed a break… it said: 'No problem — I\'ll go to sleep.'",
+            "Why did the developer go broke? Because they used up all their cache.",
+            "There are 10 kinds of people in the world: those who understand binary and those who don\'t."
+        ];
+
+        function showJoke() {
+            const joke = jokes[Math.floor(Math.random() * jokes.length)];
+            alert(joke);
+        }
+
         // Initialize
         updateCoverflow();
         container.focus();
